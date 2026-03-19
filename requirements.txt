@@ -1,0 +1,8 @@
+python-telegram-bot[job-queue]==20.7
+smartapi-python
+pyotp
+pandas
+numpy
+websocket-client
+logzero
+requests
